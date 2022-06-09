@@ -1,6 +1,6 @@
 ---
 tittle: Перший пост
-date: 2022-06-09 14:00:00 -500
+date: 2022-06-09 14:00:00 -0700
 categories: [homelab, hardware]
 tags: [servers, dell, hp, supermicro]
 ---
